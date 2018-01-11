@@ -10,4 +10,4 @@ https://fastnews.github.io/favicon.ico
 
 # Use from network if available
 NETWORK:
-*
+https://query.yahooapis.com/
