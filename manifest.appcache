@@ -10,7 +10,7 @@ favicon.ico
 
 NETWORK:
 https://query.yahooapis.com/
+*
 
 FALLBACK:
-
 / /index.html
