@@ -1,16 +1,13 @@
 CACHE MANIFEST
-# v2 2018-01-11
+# v1 2016-01-07
 # TODO: replace TODO after every build
-index.html
-static/js/main.6d72604c.js
-static/css/main.ae84c55b.css
-static/media/logo.5d5d9eef.svg
-gfont.woff2
-favicon.ico
+https://fastnews.github.io/index.html
+https://fastnews.github.io/static/js/main.6d72604c.js
+https://fastnews.github.io/static/css/main.ae84c55b.css
+https://fastnews.github.io/static/media/logo.5d5d9eef.svg
+https://fastnews.github.io/gfont.woff2
+https://fastnews.github.io/favicon.ico
 
+# Use from network if available
 NETWORK:
-https://query.yahooapis.com/
 *
-
-FALLBACK:
-/ /index.html
